@@ -8,6 +8,7 @@ This repository includes my personal solutions and notes for this course.
 ```bash
 .
 ├── search/              # Search algorithms
+│   └── degrees/         # Project: degrees of separation
 ├── knowledge/           # Knowledge representation
 ├── uncertainty/         # Probabilistic inference
 ├── optimization/        # Optimization problems
