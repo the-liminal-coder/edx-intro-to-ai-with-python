@@ -41,9 +41,8 @@ This repository follows the structure of this course. The codebase includes star
 
 Below is a breakdown of my implementations:
 
-### `search/degrees/`
-- Implemented `shortest_path()` in `degrees.py`.
-
-### `search/tictactoe/`
-- Implemented all functions in `tictactoe.py`.
-- Developed helper functions: `max_value()` and `min_value()`.
+- `search/degrees/`
+  - Implemented `shortest_path()` in `degrees.py`.
+- `search/tictactoe/`
+  - Implemented all functions in `tictactoe.py`.
+  - Developed helper functions: `max_value()` and `min_value()`.
